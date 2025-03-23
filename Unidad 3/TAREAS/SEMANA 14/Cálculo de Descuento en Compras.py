@@ -25,6 +25,3 @@ if __name__ == "__main__":
     porcentaje_descuento = 45
     descuento2 = calcular_descuento(monto2, porcentaje_descuento)
     print(f"Monto total de la compra: ${monto2}, el descuento es: {descuento2}")
-
-
-
